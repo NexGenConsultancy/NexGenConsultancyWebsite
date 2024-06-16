@@ -1,0 +1,40 @@
+                                        /* ABOUT US */
+
+                                        /* MAIN PAGE */
+
+                                        /* SERVICES */
+
+
+
+                                        /* WHO WE WORKED WITH  */
+
+.card {
+    height: 100%;
+}
+.card-bodyw {
+    display: flex;
+    flex-direction: column;
+    padding: 0.75rem; 
+}
+.card-bodyw img {
+    width: 25%; 
+    height: auto; 
+    margin: 0 auto 0.5rem auto; 
+}
+.card-bodyw h5 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem; 
+}
+.card-bodyw p {
+    flex-grow: 1;
+    font-size: 0.875rem; 
+    margin-bottom: 0.5rem; 
+}
+
+.our-clients {
+
+    text-align: center;
+}
+
+
+
